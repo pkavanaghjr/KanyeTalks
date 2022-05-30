@@ -1,0 +1,60 @@
+.container{
+	width:70%;
+	margin-right: auto;
+	margin-left:auto;
+}
+
+#chromeIcon{
+	background-image:url(../images/kanyeChrome.png);
+	width:466px;
+	height:500px;
+	position: absolute;
+	bottom:0px;
+}
+
+h1{
+	font-family: 
+	color: #0b0522;
+	font-size:30px;
+	text-align:center;
+	position: absolute;
+	left: 675px;
+	top: 220px;
+}
+
+h2{
+	color:#e7c876;
+	font-size:21px;
+	text-align:center;
+	line-height: 50px
+}
+
+a{
+	text-decoration: none;
+}
+
+#button{
+	width:200px;
+	height:50px;
+	border-radius: 5px;
+	background-color:#0b0522;
+	display: block;
+	position: absolute;
+	left: 675px;
+	top: 300px;
+}
+
+#button:hover{
+	background-color:#5d5d5d;
+	transition:background-color 1s;	
+	-o-transition:background-color 1s;	
+	-webkit-transition:background-color 1s;	
+	-moz-transition:background-color 1s;	
+}
+
+h3{
+	position: absolute;
+	left: 675px;
+	top: 320px;
+	cursor: pointer;
+}

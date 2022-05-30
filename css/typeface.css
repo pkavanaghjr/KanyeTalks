@@ -1,0 +1,58 @@
+p{
+	font-family:cinzelRegular, Helvetica, Arial, sans-serif;
+}
+
+h1{
+	font-family:cinzelRegular, Helvetica, Arial, sans-serif;
+}
+
+h2{
+	font-family:cinzelRegular, Helvetica, Arial, sans-serif;
+}
+
+h3{
+	font-family:cinzelRegular, Helvetica, Arial, sans-serif;
+}
+
+h4{
+	font-family:cinzelRegular, Helvetica, Arial, sans-serif; 
+}
+
+h5{
+	font-family:cinzelRegular, Helvetica, Arial, sans-serif;
+}
+
+h6{
+	font-family:cinzelRegular, Helvetica, Arial, sans-serif;
+}
+
+p{
+	font-family:cinzelRegular, Helvetica, Arial, sans-serif;
+}
+
+a{
+	text-decoration:none;
+}
+
+@font-face {
+	font-family: cinzelRegular;
+    src: url(../fonts/cinzel-regular-webfont.eot);
+    src: url(../fonts/cinzel-regular-webfont.eot) format('embedded-opentype'),
+         url(../fonts/cinzel-regular-webfont.woff) format('woff'),
+         url(../fonts/cinzel-regular-webfont.ttf) format('truetype'),
+         url(../fonts/cinzel-regular-webfont.svg#cinzelRegular) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+	font-family: cinzelBold;
+    src: url(../fonts/cinzel-bold-webfont.eot)
+    src: url(../fonts/cinzel-bold-webfont.eot) format('embedded-opentype'),
+         url(../fonts/cinzel-bold-webfont.woff) format('woff'),
+         url(../fonts/cinzel-bold-webfont.ttf) format('truetype'),
+         url(../fonts/cinzel-bold-webfont.svg#cinzelBold) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
